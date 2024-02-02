@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Annika
 - 👀 I’m interested in web developement
-- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on project for more expirience 
 - 📫 How to reach me - emial(annika88880@gmail.com)
 - 😄 Pronouns: she/her
